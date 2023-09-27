@@ -12,10 +12,10 @@ image_metadata:
   credit: ''
   image-alt: Photo of female trainees working on a practice bomb shell, 1942.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: National Youth Administration Trainees
 uid: 3bbc477b-82cb-7f11-4ed9-dcd0eafa9530
 ---
 National Youth Administration trainees at the Corpus Christi, TX Naval Air Base, Evelyn and Lillian Buxkeurple are shown working on a practice bomb shell, 1942. (Image courtesy of the National Archives and Records Administration.)
-

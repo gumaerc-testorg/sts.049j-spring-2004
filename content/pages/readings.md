@@ -104,7 +104,7 @@ Midterm Exam
 {{< tdclose >}}{{< tdopen >}}
 Women and Engineering at MIT
 {{< tdclose >}}{{< tdopen >}}
-Gibson, Lorna, et. al. "Report of the School of Engineering." Cambridge, MA: MIT, March 2002. ([PDF](http://web.mit.edu/faculty/reports/pdf/soe.pdf))
+Gibson, Lorna, et. al. "Report of the School of Engineering." Cambridge, MA: MIT, March 2002. ({{% resource_link "10f04f17-d25d-4fd2-b5f9-1cd70cf3aad2" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
